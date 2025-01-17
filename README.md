@@ -11,8 +11,8 @@ This project is a cross-platform .NET MAUI application. It allows users to easil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/maui-payment-calculator.git
-   cd maui-payment-calculator
+   git clone https://github.com/OguzhanOrge/HangmanGame.git
+   cd HangmanGame
    ```
 
 2. **Install the required dependencies:**
@@ -26,15 +26,9 @@ This project is a cross-platform .NET MAUI application. It allows users to easil
    dotnet maui run
    ```
 
-## Usage
-
-1. Open the app and enter the total payment amount and the number of people.
-2. Click the **Calculate** button to see the amount per person.
-
 ## Screenshot
 
-![App Screenshot](![Ekran görüntüsü 2025-01-17 164244](https://github.com/user-attachments/assets/b89ddf99-b4e1-431e-afb5-3cb82408095a)
-Ekran görüntüsü 2025-01-17 164244.png)
+![Ekran görüntüsü 2025-01-17 164244](https://github.com/user-attachments/assets/b89ddf99-b4e1-431e-afb5-3cb82408095a)
 
 ## Contributing
 
